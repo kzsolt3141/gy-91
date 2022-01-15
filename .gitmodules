@@ -1,0 +1,12 @@
+[submodule "uart"]
+	path = uart
+	url = git@github.com:kzsolt3141/uart.git
+[submodule "twi"]
+	path = twi
+	url = git@github.com:kzsolt3141/twi.git
+[submodule "mpu9250_i2c"]
+	path = mpu9250_i2c
+	url = git@github.com:kzsolt3141/mpu9250_i2c.git
+[submodule "bmp280_i2c"]
+	path = bmp280_i2c
+	url = git@github.com:kzsolt3141/bmp280_i2c.git
